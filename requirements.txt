@@ -1,0 +1,5 @@
+notion-client<3.0.0
+notion2md
+python-dotenv
+requests
+toml
